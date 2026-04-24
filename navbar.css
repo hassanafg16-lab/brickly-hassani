@@ -57,8 +57,7 @@
   font-size: 24px;
   background: none;
   border: none;
-  /* color: #ABF625; */
-  color: red;
+  color: #ABF625;
   cursor: pointer;
 }
 /* end of the navbar */
