@@ -57,7 +57,8 @@
   font-size: 24px;
   background: none;
   border: none;
-  color: #ABF625;
+  /* color: #ABF625; */
+  color: red;
   cursor: pointer;
 }
 /* end of the navbar */
@@ -241,7 +242,7 @@
 }
 #card-homes1{
   position: relative;
-  top: -70rem;
+  top: -86rem;
 }
 #card-homes2{
   position: relative;
